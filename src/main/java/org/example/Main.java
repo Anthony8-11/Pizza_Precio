@@ -20,6 +20,7 @@ public class Main {
         System.out.println(champinones);
         System.out.println(pimiento);
 
+
         System.out.println("\nDetalles de preparacion:");
         pizza.preparar();
         System.out.println(pizza);

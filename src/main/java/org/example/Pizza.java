@@ -25,6 +25,7 @@ public class Pizza {
         return precioTotal;
     }
 
+
     public void preparar() {
         System.out.println("Preparando la pizza " + nombre + "...");
         System.out.println("Agregando chunches...");
